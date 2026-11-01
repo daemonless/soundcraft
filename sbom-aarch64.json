@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-31T08:50:23Z",
+  "generated": "2026-11-01T23:41:11Z",
   "image": "soundcraft",
   "tags": {
     "latest-aarch64": {
-      "app_version": "0.15.0",
+      "app_version": "0.16.0",
       "arch": "aarch64",
-      "generated": "2026-10-31T08:49:56Z",
+      "generated": "2026-11-01T23:40:45Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -189,7 +189,7 @@
               "BSD2CLAUSE"
             ],
             "name": "FreeBSD-runtime",
-            "version": "15.1p5"
+            "version": "15.1p6"
           },
           {
             "licenses": [
