@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-31T08:21:23Z",
+  "generated": "2026-11-01T22:43:58Z",
   "image": "soundcraft",
   "tags": {
     "latest-amd64": {
-      "app_version": "0.15.0",
+      "app_version": "0.16.0",
       "arch": "amd64",
-      "generated": "2026-10-31T08:19:46Z",
+      "generated": "2026-11-01T22:43:21Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -189,7 +189,7 @@
               "BSD2CLAUSE"
             ],
             "name": "FreeBSD-runtime",
-            "version": "15.1p5"
+            "version": "15.1p6"
           },
           {
             "licenses": [
@@ -266,7 +266,7 @@
               "BSD2CLAUSE"
             ],
             "name": "nginx",
-            "version": "1.30.6_6,3"
+            "version": "1.30.6_7,3"
           },
           {
             "licenses": [
