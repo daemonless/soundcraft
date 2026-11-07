@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-05T08:29:14Z",
+  "generated": "2026-11-07T08:39:19Z",
   "image": "soundcraft",
   "tags": {
     "latest-aarch64": {
-      "app_version": "0.17.1",
+      "app_version": "0.18.0",
       "arch": "aarch64",
-      "generated": "2026-11-05T08:28:36Z",
+      "generated": "2026-11-07T08:38:41Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
